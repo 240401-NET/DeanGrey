@@ -1,0 +1,14 @@
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/bin/Debug/net8.0/projectzero
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/bin/Debug/net8.0/projectzero.deps.json
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/bin/Debug/net8.0/projectzero.runtimeconfig.json
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/bin/Debug/net8.0/projectzero.dll
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/bin/Debug/net8.0/projectzero.pdb
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.AssemblyInfoInputs.cache
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.AssemblyInfo.cs
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.csproj.CoreCompileInputs.cache
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.dll
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/refint/projectzero.dll
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.pdb
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.genruntimeconfig.cache
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/ref/projectzero.dll
