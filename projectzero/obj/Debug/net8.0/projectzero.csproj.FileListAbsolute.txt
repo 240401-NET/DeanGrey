@@ -12,3 +12,4 @@
 /Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.pdb
 /Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.genruntimeconfig.cache
 /Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/ref/projectzero.dll
+/Users/deangrey/Desktop/Revature/repos/DeanGrey/projectzero/obj/Debug/net8.0/projectzero.sourcelink.json
