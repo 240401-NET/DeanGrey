@@ -6,7 +6,8 @@ class Menu {
 public static void ListMenu() {
     Console.WriteLine("1. Record a New Song");
     Console.WriteLine("2. View SongBook");
-    Console.WriteLine("Press 9 to exit");
+    Console.WriteLine("3. Remove a Record");
+    Console.WriteLine("  Press 9 to exit");
 }
     public static int UserSelection()
     {

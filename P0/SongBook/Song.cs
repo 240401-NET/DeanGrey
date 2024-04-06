@@ -9,6 +9,6 @@ public class Song {
     public Song() {}
 
     public override string ToString() {
-        return "Name: " + Name + "\nLength " + Length + "\nGengre: " + Genre;
+        return "~Name: " + Name + "~\n~Length: " + Length + "~\n~Gengre: " + Genre + "~\n";
     }
 }
