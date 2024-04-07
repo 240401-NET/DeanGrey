@@ -1,5 +1,7 @@
 namespace SongBook;
 
+//This is the file I am used to being known as Model
+
 
 public class Song {
     public string? Name {get; set;}
@@ -8,7 +10,8 @@ public class Song {
 
     public Song() {}
 
-    public override string ToString() {
+    public override string ToString(){
         return "~Name: " + Name + "~\n~Length: " + Length + "~\n~Gengre: " + Genre + "~\n";
     }
+
 }
