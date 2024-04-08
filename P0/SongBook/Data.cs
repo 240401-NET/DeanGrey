@@ -3,14 +3,15 @@ using System.Text.Json;
 namespace SongBook;
 
 
-class Data {
+public class Data {
+    public static List<Song>? songs;
     public static List<Song> LoadSongs(){
 
         try{
             string filePath = "songList.json";
             string jsonSongs = File.ReadAllText(filePath);
 
-            List<Song>? songs = JsonSerializer.Deserialize<List<Song>>(jsonSongs);
+            songs = JsonSerializer.Deserialize<List<Song>>(jsonSongs);
             if(songs is null) {
                 return new List<Song>();   
             }

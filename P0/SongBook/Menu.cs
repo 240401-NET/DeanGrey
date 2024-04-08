@@ -1,7 +1,7 @@
 namespace SongBook;
 
 
-class Menu {
+public class Menu {
 
 public static void ListMenu() {
     Console.WriteLine("1. Record a New Song");

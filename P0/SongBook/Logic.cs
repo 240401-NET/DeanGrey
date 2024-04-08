@@ -1,6 +1,6 @@
 namespace SongBook;
 
-class Logic {
+public class Logic {
 
 
     public static void DisplaySongs(List<Song> songList) {
@@ -13,9 +13,11 @@ class Logic {
 
     public static Song GenerateSong() {
 
+        List<Song> songList = new();
+
         Song returnSong = new();
         Console.WriteLine("Record Your song's name");
-        returnSong.Name = Console.ReadLine();
+        returnSong.Name = Console.ReadLine()?.ToUpper();
 
         Console.WriteLine($"How long in minutes and seconds is {returnSong.Name}?");
 
@@ -23,12 +25,15 @@ class Logic {
 
         Console.WriteLine($"What genre is {returnSong.Name}?");
 
-        returnSong.Genre = Console.ReadLine();
+        returnSong.Genre = Console.ReadLine()?.ToUpper();
 
         Console.WriteLine($"Recorded {returnSong.Genre} song {returnSong.Name}.");
 
+        Data.PersistSongs(songList);
+
         return returnSong;
     }
+
 
 
 }

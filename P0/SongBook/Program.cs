@@ -2,7 +2,7 @@
 
 
 
-class Program {
+public class Program {
     static void Main(string[] args) {
 
        List<Song> songList = new();
@@ -23,7 +23,7 @@ class Program {
 
         if (UserInput == 1) {
             songList.Add(Logic.GenerateSong());
-            Data.PersistSongs(songList);
+       
         } else if (UserInput == 2) {
             Console.WriteLine("~~~~~~~~~~~~~~~~");
             Console.WriteLine("WELCOME TO YOUR SONGBOOK!\n");
